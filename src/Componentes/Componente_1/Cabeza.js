@@ -11,11 +11,11 @@ export default function index(){
                 <a>Travel Goods</a>
             </h1>
             <nav class="headerPrincipal-nav">
-                <a class="headerPrincipal-nav-menu" href="#">INICIO</a>
+                <a class="headerPrincipal-nav-menu">INICIO</a>
                 <a class="headerPrincipal-nav-menu" href="#Productos">PRODUCTOS</a>
                 <a class="headerPrincipal-nav-menu" href="#Contacto">CONTACTO</a>
             </nav>
-            <a href="#Carrito"><img src={carrito} /></a>
+            <a href="#Carrito"><img src={carrito} alt="Carrito" /></a>
         </div>
     );
 }
