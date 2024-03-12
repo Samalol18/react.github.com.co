@@ -1,5 +1,6 @@
 import './App.css';
 import Cabeza from './Componentes/Componente_1/Cabeza';
+import Portada from './Componentes/Componente_2/Portada';
 
 function App() {
   return (
@@ -8,7 +9,7 @@ function App() {
         <Cabeza />
       </header>
       <main>
-        
+        <Portada />
       </main>
     </div>
   );
