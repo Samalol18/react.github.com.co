@@ -1,0 +1,21 @@
+.contenidoPrincipal{
+	width: 100%;
+	padding: 10px 0;
+}
+
+.contenidoPrincipal div{
+	display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.contenidoPrincipal .Portada{
+	width: 99%;
+	box-shadow: 6px 6px 6px #000000;
+}
+
+.contenidoPrincipal-subtitulo{
+	font-family: 'Inter',Arial,sans-serif;
+	margin: 40px;
+	font-size: 40px;
+}
