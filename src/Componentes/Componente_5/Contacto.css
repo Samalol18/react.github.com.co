@@ -1,0 +1,9 @@
+.contacto{
+	text-align: center;
+	padding: 10px;
+	margin: 5%;
+}
+
+.contacto a {
+	font-size: 20px;
+}
