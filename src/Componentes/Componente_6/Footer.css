@@ -1,0 +1,20 @@
+.footerPrincipal-p{
+    color: #ffffff;
+    font-size: 20px;
+    margin: 20px;
+}
+
+.footerPrincipal-img{
+    margin: 10px;
+	height: 100px
+}
+
+.footerPrincipal-text{
+	color: #ffffff;
+    font-family: 'Montserrat',Arial,sans-serif;
+}
+
+.footerPrincipal-text:hover{
+    color: #e2a62d;
+    text-decoration:  underline;
+}

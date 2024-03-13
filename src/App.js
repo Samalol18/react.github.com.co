@@ -4,6 +4,7 @@ import Portada from './Componentes/Componente_2/Portada';
 import Produc from './Componentes/Componente_3/Produc';
 import Total from './Componentes/Componente_4/Total';
 import Contacto from './Componentes/Componente_5/Contacto';
+import Footer from './Componentes/Componente_6/Footer';
 
 function App() {
   return (
@@ -17,6 +18,9 @@ function App() {
         <Total />
         <Contacto />
       </main>
+      <footer>
+        <Footer />
+      </footer>
     </div>
   );
 }
